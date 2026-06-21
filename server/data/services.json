@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a397e992-f595-4837-bc85-1b0c189ba2b4",
+    "title": "Full Stack Web Development",
+    "description": "End-to-end development of dynamic, database-driven web applications. I design responsive frontend UI layouts and construct secure RESTful server systems.",
+    "icon": "Code",
+    "price": "Starting from $800",
+    "order": 1,
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "da10f018-24ec-418a-91fe-65d6b6ad9ea1",
+    "title": "3D Web Experiences",
+    "description": "Interactive web layouts rendering real-time animated 3D assets, particles, and custom environments using React Three Fiber to make your business stand out.",
+    "icon": "Box",
+    "price": "Starting from $1200",
+    "order": 2,
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "9825408e-b3e7-4f54-9f89-037e41c9dab2",
+    "title": "API Development & Integration",
+    "description": "Building fast, secure, and documented REST APIs. Linking frontend interfaces with payment gateways, email nodes, analytics trackers, and other third-party APIs.",
+    "icon": "Server",
+    "price": "Starting from $400",
+    "order": 3,
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1a0797df-1398-4d61-abbe-2a5399f78029",
+    "title": "3D Interactive Portfolio",
+    "description": "A stunning MERN portfolio displaying 3D particle animations, hover-tilt systems, dynamic timelines, and a robust admin dashboard built using R3F and Framer Motion.",
+    "techStack": [
+      "React",
+      "Three.js",
+      "GSAP",
+      "Node.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "liveLink": "https://awais-ali-portfolio.example.com",
+    "githubLink": "https://github.com/awais-ali/3d-portfolio",
+    "category": "Frontend & 3D",
+    "featured": true,
+    "order": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600"
+    ],
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "bc396df4-637f-4492-ad97-05f1331c42bf",
+    "title": "E-Commerce Platform with Dashboard",
+    "description": "A fully-featured e-commerce platform incorporating secure Stripe payments, cart state management, product filtering, and a separate vendor overview panel.",
+    "techStack": [
+      "React",
+      "Redux",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Stripe"
+    ],
+    "liveLink": "https://awais-store.example.com",
+    "githubLink": "https://github.com/awais-ali/mern-store",
+    "category": "Full Stack",
+    "featured": true,
+    "order": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600"
+    ],
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "0c52f9aa-a7cd-4cd5-9028-5c51e3a7f4cc",
+    "title": "AI Collaborative Canvas",
+    "description": "Real-time collaborative drawing and design application powered by Socket.io, integrating OpenAI APIs to suggest graphic themes and autogenerate vectors.",
+    "techStack": [
+      "Vite",
+      "Socket.io",
+      "Node.js",
+      "OpenAI API",
+      "Tailwind CSS"
+    ],
+    "liveLink": "https://ai-canvas.example.com",
+    "githubLink": "https://github.com/awais-ali/ai-canvas",
+    "category": "Web Sockets",
+    "featured": false,
+    "order": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=600"
+    ],
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  }
+]

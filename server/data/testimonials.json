@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a09a8e8f-19a4-42b2-88de-6a72ccf4af31",
+    "name": "Sarah Connor",
+    "role": "Product Manager",
+    "company": "Skynet Tech",
+    "message": "Awais built our entire dashboard backend and three-dimensional landing page. His engineering skills are top-notch, and he delivered the codebase ahead of schedule.",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150",
+    "rating": 5,
+    "approved": true,
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "02b99563-6616-4256-a20e-809c939d47d8",
+    "name": "John Doe",
+    "role": "CTO",
+    "company": "Nova Digital",
+    "message": "Working with Awais was a fantastic experience. His proficiency in the MERN stack and ability to create beautiful 3D animations made our product debut a massive success.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150",
+    "rating": 5,
+    "approved": true,
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  }
+]

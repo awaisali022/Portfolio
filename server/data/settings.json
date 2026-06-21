@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c596fcf4-45d1-4418-bedb-99c07d02d8b2",
+    "heroTitle": "Awais Ali",
+    "heroSubtitle": "Full Stack Developer",
+    "heroRoles": [
+      "Full Stack Developer",
+      "React & Node Architect",
+      "3D UI Designer",
+      "MERN Specialist"
+    ],
+    "aboutBio": "I am a highly motivated Full Stack Developer with 4+ years of professional experience in crafting responsive, visually engaging, and high-performance web applications. Specializing in React, Node.js, and Three.js, I bridge the gap between creative visual designs and powerful backend logic.",
+    "aboutImage": "",
+    "yearsExperience": 4,
+    "projectsCompleted": 25,
+    "happyClients": 15,
+    "githubUrl": "https://github.com/awais-ali",
+    "linkedinUrl": "https://linkedin.com/in/awais-ali",
+    "twitterUrl": "https://twitter.com/awais_ali",
+    "instagramUrl": "https://instagram.com/awais_ali",
+    "emailAddress": "awais.ali@example.com",
+    "resumeUrl": "",
+    "seoTitle": "Awais Ali | Full Stack MERN Developer",
+    "seoDescription": "Professional portfolio of Awais Ali, featuring interactive 3D elements, animations, and custom dashboard services.",
+    "seoKeywords": [
+      "MERN Stack",
+      "React",
+      "Three.js",
+      "Node.js",
+      "Express",
+      "Portfolio",
+      "Web Developer"
+    ],
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  }
+]

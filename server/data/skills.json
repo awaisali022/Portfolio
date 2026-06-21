@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e9e7806c-3d9c-498f-83ef-e34cced3caf7",
+    "name": "React.js",
+    "category": "Frontend",
+    "proficiency": 95,
+    "icon": "ReactIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "8318cf97-9b5e-4f2b-91b7-a1c5c72398df",
+    "name": "JavaScript / ES6",
+    "category": "Frontend",
+    "proficiency": 90,
+    "icon": "JsIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "07d13391-aafb-44dc-8032-9225c514541c",
+    "name": "Tailwind CSS",
+    "category": "Frontend",
+    "proficiency": 90,
+    "icon": "TailwindIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "06a584c8-43d2-4a30-ae36-077e5ce4a849",
+    "name": "Three.js / React Three Fiber",
+    "category": "Frontend",
+    "proficiency": 80,
+    "icon": "ThreeIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "1f54c6c5-ba83-48ad-924f-702b5970c91b",
+    "name": "HTML5 & CSS3",
+    "category": "Frontend",
+    "proficiency": 95,
+    "icon": "HtmlIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "93d11f63-c37a-4aa6-a29b-9c31272bd08c",
+    "name": "Node.js & Express",
+    "category": "Backend",
+    "proficiency": 88,
+    "icon": "NodeIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "22e4b98d-80b2-4a8d-8e2c-40838a01ad75",
+    "name": "MongoDB & Mongoose",
+    "category": "Backend",
+    "proficiency": 85,
+    "icon": "MongoIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "5bcc6c1f-582b-4398-9866-e3d133103fef",
+    "name": "REST APIs & GraphQL",
+    "category": "Backend",
+    "proficiency": 90,
+    "icon": "ApiIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "09e8e5a4-e023-472c-9567-44db746cda5f",
+    "name": "Git & GitHub",
+    "category": "Tools",
+    "proficiency": 90,
+    "icon": "GitIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "deb89d00-5c63-41fb-b49a-5abfab059f58",
+    "name": "Docker",
+    "category": "Tools",
+    "proficiency": 70,
+    "icon": "DockerIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "237ed9aa-896a-446a-b57e-0a4dea3ef2c3",
+    "name": "Figma",
+    "category": "Design",
+    "proficiency": 75,
+    "icon": "FigmaIcon",
+    "created_at": "2026-06-21T02:52:50.761Z",
+    "updated_at": "2026-06-21T02:52:50.761Z"
+  },
+  {
+    "id": "7ba79d21-a94a-49e5-a25c-234cf9d5f1b4",
+    "name": "vercel",
+    "category": "Tools",
+    "proficiency": "89",
+    "icon": "",
+    "created_at": "2026-06-21T02:58:27.432Z",
+    "updated_at": "2026-06-21T02:58:27.432Z"
+  }
+]
