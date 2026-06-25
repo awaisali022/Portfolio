@@ -3,10 +3,10 @@ import { ArrowUp, Github, Linkedin, Twitter, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Footer = ({ settings }) => {
-  const emailVal = settings?.emailAddress || 'awais.ali@example.com';
-  const githubVal = settings?.githubUrl || 'https://github.com';
-  const linkedinVal = settings?.linkedinUrl || 'https://linkedin.com';
-  const twitterVal = settings?.twitterUrl || 'https://twitter.com';
+  const emailVal = settings?.emailAddress || 'chawaisali022@gmail.com';
+  const githubVal = settings?.githubUrl || 'https://github.com/awaisali022';
+  const linkedinVal = settings?.linkedinUrl || 'https://www.linkedin.com/in/awaisali022/';
+  const twitterVal = settings?.twitterUrl || 'https://twitter.com/AwaisAli';
 
   const scrollToTop = () => {
     window.scrollTo({

@@ -6,8 +6,8 @@ import { API_URL } from '../../context/AuthContext';
 
 const Contact = ({ settings }) => {
   const emailVal = settings?.emailAddress || 'fa23-bcs-022@cuivehari.edu.pk';
-  const githubVal = settings?.githubUrl || 'https://github.com';
-  const linkedinVal = settings?.linkedinUrl || 'https://linkedin.com';
+  const githubVal = settings?.githubUrl || 'https://github.com/awaisali022';
+  const linkedinVal = settings?.linkedinUrl || 'https://www.linkedin.com/in/awaisali022/';
   const twitterVal = settings?.twitterUrl || 'https://twitter.com';
 
   const [formData, setFormData] = useState({

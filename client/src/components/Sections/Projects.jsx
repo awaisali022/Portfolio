@@ -49,8 +49,8 @@ const Projects = ({ projects = [] }) => {
       title: '3D Interactive Portfolio',
       description: 'A stunning portfolio website built using R3F, Framer Motion, and Node.js. Incorporates fully dynamic administration APIs and database-backed seed elements.',
       techStack: ['React', 'Three.js', 'Framer Motion', 'Node.js', 'MongoDB'],
-      liveLink: 'https://example.com',
-      githubLink: 'https://github.com',
+      liveLink: 'https://awaisali022.github.io/3d-portfolio/  ',
+      githubLink: 'https://github.com/awaisali022/3d-portfolio',
       category: 'Frontend & 3D',
       featured: true,
       images: ['https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600']
