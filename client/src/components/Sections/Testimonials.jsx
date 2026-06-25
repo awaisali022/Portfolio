@@ -47,7 +47,32 @@ const TestimonialCard = ({ review }) => {
 };
 
 const Testimonials = ({ testimonials = [] }) => {
-  const defaultReviews = [];
+  const defaultReviews = [
+    {
+      name: 'Ahmed Khan',
+      role: 'Project Manager',
+      company: 'Tech Solutions',
+      message: 'Muhammad Awais Ali is an exceptionally talented developer who learns incredibly fast and produces scalable MERN applications. Highly recommended!',
+      rating: 5,
+      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150'
+    },
+    {
+      name: 'Sarah Rahman',
+      role: 'Lead Developer',
+      company: 'Digital Innovators',
+      message: 'Working with Awais was a great experience. His attention to detail in React and frontend architecture is outstanding.',
+      rating: 5,
+      avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150'
+    },
+    {
+      name: 'Usman Ali',
+      role: 'Client',
+      company: '',
+      message: 'He built a robust backend and an interactive UI for our SaaS project ahead of schedule. Very professional.',
+      rating: 5,
+      avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=150'
+    }
+  ];
 
   const activeReviews = testimonials.length > 0 ? testimonials : defaultReviews;
   
