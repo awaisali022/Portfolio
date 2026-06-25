@@ -41,7 +41,7 @@ const seedLocalData = async () => {
     heroSubtitle: 'Full Stack Developer',
     heroRoles: ['Full Stack Developer', 'React & Node Architect', '3D UI Designer', 'MERN Specialist'],
     aboutBio: 'I am a highly motivated Full Stack Developer with 4+ years of professional experience in crafting responsive, visually engaging, and high-performance web applications. Specializing in React, Node.js, and Three.js, I bridge the gap between creative visual designs and powerful backend logic.',
-    aboutImage: '',
+    aboutImage: 'https://raw.githubusercontent.com/awaisali022/Projects-picsk-/main/personal%20picks_01.png',
     yearsExperience: 4,
     projectsCompleted: 25,
     happyClients: 15,

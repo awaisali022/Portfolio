@@ -39,7 +39,7 @@ const About = ({ settings }) => {
   const rawAvatar = settings?.aboutImage || '';
   const avatarUrl = rawAvatar
     ? (rawAvatar.startsWith('http') ? rawAvatar : `${BACKEND_URL}${rawAvatar}`)
-    : 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400';
+    : 'https://raw.githubusercontent.com/awaisali022/Projects-picsk-/main/personal%20picks_01.png';
 
   // Parallax Tilt State
   const [tilt, setTilt] = useState({ x: 0, y: 0 });

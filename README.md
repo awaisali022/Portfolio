@@ -4,6 +4,10 @@ This is a production-ready, highly animated, and fully responsive MERN stack por
 
 The platform features stunning 3D particle animations using **React Three Fiber (Three.js)**, scroll reveals powered by **Framer Motion**, a dark/light mode toggle with premium glassmorphism visuals, and a complete administrative control panel (`/admin`) to manage all portfolios and inbox inquiries dynamically.
 
+## Screenshots
+
+![Portfolio Preview](https://raw.githubusercontent.com/awaisali022/Projects-picsk-/main/personal%20picks_01.png)
+
 ---
 
 ## Repository Structure
