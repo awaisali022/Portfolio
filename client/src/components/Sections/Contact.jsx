@@ -5,7 +5,7 @@ import axios from 'axios';
 import { API_URL } from '../../context/AuthContext';
 
 const Contact = ({ settings }) => {
-  const emailVal = settings?.emailAddress || 'awais.ali@example.com';
+  const emailVal = settings?.emailAddress || 'fa23-bcs-022@cuivehari.edu.pk';
   const githubVal = settings?.githubUrl || 'https://github.com';
   const linkedinVal = settings?.linkedinUrl || 'https://linkedin.com';
   const twitterVal = settings?.twitterUrl || 'https://twitter.com';
@@ -100,8 +100,20 @@ const Contact = ({ settings }) => {
                   <div>
                     <span className="text-xs font-sans text-light-muted dark:text-dark-muted block">Location</span>
                     <span className="text-sm sm:text-base font-semibold text-light-text dark:text-dark-text">
-                      Lahore / Islamabad, Pakistan
+                      Multan, Pakistan
                     </span>
+                  </div>
+                </div>
+
+                <div className="flex items-center space-x-4">
+                  <div className="w-10 h-10 rounded-lg bg-green-500/10 text-green-500 dark:text-green-400 flex items-center justify-center flex-shrink-0">
+                    <Phone className="w-5 h-5" />
+                  </div>
+                  <div>
+                    <span className="text-xs font-sans text-light-muted dark:text-dark-muted block">Phone</span>
+                    <a href="tel:+923054737765" className="text-sm sm:text-base font-semibold text-light-text dark:text-dark-text hover:text-green-500 transition-colors">
+                      +923054737765
+                    </a>
                   </div>
                 </div>
               </div>

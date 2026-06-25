@@ -32,10 +32,10 @@ const Counter = ({ value, duration = 1500, trigger }) => {
 };
 
 const About = ({ settings }) => {
-  const bioText = settings?.aboutBio || 'Full Stack Developer with a passion for clean architectures and beautiful user experiences.';
-  const yearsExp = settings?.yearsExperience || 4;
-  const projectsComp = settings?.projectsCompleted || 25;
-  const clientsCount = settings?.happyClients || 15;
+  const bioText = settings?.aboutBio || 'I am a results-driven Full Stack Web Developer with practical experience in building scalable web applications using the MERN stack. I specialize in developing dynamic user interfaces, designing RESTful APIs, and managing efficient database architectures.';
+  const yearsExp = settings?.yearsExperience || 1;
+  const projectsComp = settings?.projectsCompleted || 3;
+  const clientsCount = settings?.happyClients || 0;
   const rawAvatar = settings?.aboutImage || '';
   const avatarUrl = rawAvatar
     ? (rawAvatar.startsWith('http') ? rawAvatar : `${BACKEND_URL}${rawAvatar}`)
@@ -121,7 +121,7 @@ const About = ({ settings }) => {
               {bioText}
             </p>
             <p className="font-sans text-light-muted dark:text-dark-muted text-sm sm:text-base leading-relaxed">
-              My development philosophy focuses heavily on writing maintainable code, implementing modular architectures, and optimizing load performative matrices. I thrive on collaborating across teams to bring dynamic, three-dimensional designs into responsive products.
+              Having developed and deployed multiple real-world applications, including SaaS-based systems, I focus on performance optimization, clean code architecture, and seamless user experience. I am committed to pushing technical boundaries and contributing to high-quality, production-ready software solutions.
             </p>
 
             {/* Counters Section */}

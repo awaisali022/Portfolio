@@ -47,32 +47,7 @@ const TestimonialCard = ({ review }) => {
 };
 
 const Testimonials = ({ testimonials = [] }) => {
-  const defaultReviews = [
-    {
-      name: 'Sarah Connor',
-      role: 'Product Lead',
-      company: 'Skynet Solutions',
-      message: 'Awais built our full-stack administrative database and 3D landing modules. Absolute master developer, delivery was ahead of schedule!',
-      rating: 5,
-      avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150'
-    },
-    {
-      name: 'John Doe',
-      role: 'CTO',
-      company: 'Nova Digital',
-      message: 'Excellent pair-programming partner. His skill set across React R3F and Express systems helped bootstrap our project quickly.',
-      rating: 5,
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150'
-    },
-    {
-      name: 'Elissa Vance',
-      role: 'Creative Director',
-      company: 'Aperture Labs',
-      message: 'The animations and 3D elements look incredibly premium and fluid. He has a great sense for UI design and details.',
-      rating: 5,
-      avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=150'
-    }
-  ];
+  const defaultReviews = [];
 
   const activeReviews = testimonials.length > 0 ? testimonials : defaultReviews;
   
