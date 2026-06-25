@@ -1,70 +1,63 @@
 [
   {
-    "id": "1a0797df-1398-4d61-abbe-2a5399f78029",
-    "title": "3D Interactive Portfolio",
-    "description": "A stunning MERN portfolio displaying 3D particle animations, hover-tilt systems, dynamic timelines, and a robust admin dashboard built using R3F and Framer Motion.",
+    "id": "02f028d6-1354-476e-8f1c-d4d22503d1fd",
+    "title": "AdFlow Pro – SaaS Web Application",
+    "description": "Architected and developed a full-stack SaaS platform for advertisement workflow management. Implemented secure and scalable REST APIs using Node.js and Express.js. Designed real-time interactive dashboards using React. Structured MongoDB database for efficient data storage and retrieval. Deployed production-ready application on Vercel.",
     "techStack": [
       "React",
-      "Three.js",
-      "GSAP",
       "Node.js",
+      "Express.js",
       "MongoDB",
-      "Tailwind"
+      "Vercel"
     ],
-    "liveLink": "https://awais-ali-portfolio.example.com",
-    "githubLink": "https://github.com/awais-ali/3d-portfolio",
-    "category": "Frontend & 3D",
+    "liveLink": "",
+    "githubLink": "",
+    "category": "Full Stack",
     "featured": true,
     "order": 1,
     "images": [
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600"
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600"
     ],
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "bc396df4-637f-4492-ad97-05f1331c42bf",
-    "title": "E-Commerce Platform with Dashboard",
-    "description": "A fully-featured e-commerce platform incorporating secure Stripe payments, cart state management, product filtering, and a separate vendor overview panel.",
+    "id": "de424ccb-1747-469d-9616-114fa9c699ee",
+    "title": "Full-Stack Portfolio / Resume Platform",
+    "description": "Developed a modern, responsive portfolio platform with reusable component architecture. Integrated smooth navigation, animations, and optimized UI/UX design. Ensured cross-device compatibility and performance optimization.",
     "techStack": [
       "React",
-      "Redux",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Stripe"
+      "CSS",
+      "JavaScript"
     ],
-    "liveLink": "https://awais-store.example.com",
-    "githubLink": "https://github.com/awais-ali/mern-store",
-    "category": "Full Stack",
+    "liveLink": "",
+    "githubLink": "",
+    "category": "Frontend",
     "featured": true,
     "order": 2,
     "images": [
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600"
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600"
     ],
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "0c52f9aa-a7cd-4cd5-9028-5c51e3a7f4cc",
-    "title": "AI Collaborative Canvas",
-    "description": "Real-time collaborative drawing and design application powered by Socket.io, integrating OpenAI APIs to suggest graphic themes and autogenerate vectors.",
+    "id": "5eaec287-76e9-4cae-a0cd-fa07ea04f02c",
+    "title": "GitHub UI Clone",
+    "description": "Engineered a pixel-perfect GitHub interface clone using React. Applied component-based architecture and responsive design principles. Focused on UI accuracy, performance, and maintainable code structure.",
     "techStack": [
-      "Vite",
-      "Socket.io",
-      "Node.js",
-      "OpenAI API",
-      "Tailwind CSS"
+      "React",
+      "CSS"
     ],
-    "liveLink": "https://ai-canvas.example.com",
-    "githubLink": "https://github.com/awais-ali/ai-canvas",
-    "category": "Web Sockets",
+    "liveLink": "",
+    "githubLink": "",
+    "category": "Frontend",
     "featured": false,
     "order": 3,
     "images": [
-      "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=600"
+      "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600"
     ],
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   }
 ]

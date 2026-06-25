@@ -1,13 +1,24 @@
 [
   {
-    "id": "e49039bf-a525-45a0-adc9-6fba426ab2e3",
-    "institution": "National University of Sciences and Technology (NUST)",
-    "degree": "Bachelor of Science",
+    "id": "04951735-6a7d-420c-82ae-6765fe7fb17c",
+    "institution": "COMSATS University Islamabad, Pakistan",
+    "degree": "Bachelors of Computer Science (BSCS)",
     "fieldOfStudy": "Computer Science",
-    "startDate": "Sep 2018",
-    "endDate": "Jul 2022",
-    "description": "Graduated with Honors. Specialized in Software Engineering, Web Design, and Database Management Systems.",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "startDate": "2023",
+    "endDate": "Present",
+    "description": "Pursuing Bachelors in Computer Science.",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
+  },
+  {
+    "id": "5a126228-065b-4654-94cb-c9f306fed8ac",
+    "institution": "Post Graduate College, Pakistan",
+    "degree": "Intermediate of Computer Science (ICS)",
+    "fieldOfStudy": "Computer Science",
+    "startDate": "2021",
+    "endDate": "2023",
+    "description": "Completed ICS with a focus on core computer science subjects.",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   }
 ]

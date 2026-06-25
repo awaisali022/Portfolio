@@ -53,10 +53,10 @@ const seedData = async () => {
     // 3. Seed Settings
     console.log('⚙️ Seeding settings...');
     const settings = {
-      heroTitle: 'Awais Ali',
-      heroSubtitle: 'Full Stack Developer',
-      heroRoles: JSON.stringify(['Full Stack Developer', 'React & Node Architect', '3D UI Designer', 'MERN Specialist']),
-      aboutBio: 'I am a highly motivated Full Stack Developer with 4+ years of professional experience in crafting responsive, visually engaging, and high-performance web applications. Specializing in React, Node.js, and Three.js, I bridge the gap between creative visual designs and powerful backend logic.',
+            heroTitle: 'Muhammad Awais Ali',
+      heroSubtitle: 'Software Engineer / Full Stack Developer',
+      heroRoles: JSON.stringify(['Full Stack Developer', 'Software Engineer', 'MERN Stack Developer', 'React Specialist']),
+      aboutBio: 'I am a results-driven Full Stack Web Developer with practical experience in building scalable web applications using the MERN stack. I specialize in developing dynamic user interfaces, designing RESTful APIs, and managing efficient database architectures. Having developed and deployed multiple real-world applications, including SaaS-based systems, I focus on performance optimization, clean code architecture, and seamless user experience. I am committed to pushing technical boundaries and contributing to high-quality, production-ready software solutions. Contact: +923054737765',
       yearsExperience: 4,
       projectsCompleted: 25,
       happyClients: 15,
@@ -64,7 +64,7 @@ const seedData = async () => {
       linkedinUrl: 'https://linkedin.com/in/awais-ali',
       twitterUrl: 'https://twitter.com/awais_ali',
       instagramUrl: 'https://instagram.com/awais_ali',
-      emailAddress: 'awais.ali@example.com',
+      emailAddress: 'fa23-bcs-022@cuivehari.edu.pk',
       resumeUrl: '',
       seoTitle: 'Awais Ali | Full Stack MERN Developer',
       seoDescription: 'Professional portfolio of Awais Ali, featuring interactive 3D elements, animations, and custom dashboard services.',
@@ -87,18 +87,19 @@ const seedData = async () => {
 
     // 4. Seed Skills
     console.log('🛠️ Seeding skills...');
-    const skills = [
-      { name: 'React.js', category: 'Frontend', proficiency: 95, icon: 'ReactIcon' },
-      { name: 'JavaScript / ES6', category: 'Frontend', proficiency: 90, icon: 'JsIcon' },
-      { name: 'Tailwind CSS', category: 'Frontend', proficiency: 90, icon: 'TailwindIcon' },
-      { name: 'Three.js / React Three Fiber', category: 'Frontend', proficiency: 80, icon: 'ThreeIcon' },
+        const skills = [
+      { name: 'React', category: 'Frontend', proficiency: 90, icon: 'ReactIcon' },
+      { name: 'JavaScript', category: 'Frontend', proficiency: 90, icon: 'JsIcon' },
       { name: 'HTML5 & CSS3', category: 'Frontend', proficiency: 95, icon: 'HtmlIcon' },
-      { name: 'Node.js & Express', category: 'Backend', proficiency: 88, icon: 'NodeIcon' },
-      { name: 'MongoDB & Mongoose', category: 'Backend', proficiency: 85, icon: 'MongoIcon' },
-      { name: 'REST APIs & GraphQL', category: 'Backend', proficiency: 90, icon: 'ApiIcon' },
+      { name: 'Bootstrap 5', category: 'Frontend', proficiency: 85, icon: 'BootstrapIcon' },
+      { name: 'Node.js & Express', category: 'Backend', proficiency: 85, icon: 'NodeIcon' },
+      { name: 'PHP (Laravel)', category: 'Backend', proficiency: 75, icon: 'PhpIcon' },
+      { name: 'Supabase', category: 'Backend', proficiency: 80, icon: 'SupabaseIcon' },
+      { name: 'MongoDB', category: 'Databases', proficiency: 85, icon: 'MongoIcon' },
+      { name: 'MySQL', category: 'Databases', proficiency: 85, icon: 'MysqlIcon' },
+      { name: 'PostgreSQL', category: 'Databases', proficiency: 80, icon: 'PostgresIcon' },
       { name: 'Git & GitHub', category: 'Tools', proficiency: 90, icon: 'GitIcon' },
-      { name: 'Docker', category: 'Tools', proficiency: 70, icon: 'DockerIcon' },
-      { name: 'Figma', category: 'Design', proficiency: 75, icon: 'FigmaIcon' }
+      { name: 'Vercel, Netlify', category: 'Platforms', proficiency: 85, icon: 'VercelIcon' }
     ];
 
     for (const skill of skills) {
@@ -111,39 +112,39 @@ const seedData = async () => {
 
     // 5. Seed Projects
     console.log('📂 Seeding projects...');
-    const projects = [
+        const projects = [
       {
-        title: '3D Interactive Portfolio',
-        description: 'A stunning MERN portfolio displaying 3D particle animations, hover-tilt systems, dynamic timelines, and a robust admin dashboard built using R3F and Framer Motion.',
-        techStack: JSON.stringify(['React', 'Three.js', 'GSAP', 'Node.js', 'MongoDB', 'Tailwind']),
-        liveLink: 'https://awais-ali-portfolio.example.com',
-        githubLink: 'https://github.com/awais-ali/3d-portfolio',
-        category: 'Frontend & 3D',
-        featured: true,
-        order: 1,
-        images: JSON.stringify(['https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600'])
-      },
-      {
-        title: 'E-Commerce Platform with Dashboard',
-        description: 'A fully-featured e-commerce platform incorporating secure Stripe payments, cart state management, product filtering, and a separate vendor overview panel.',
-        techStack: JSON.stringify(['React', 'Redux', 'Node.js', 'Express', 'MongoDB', 'Stripe']),
-        liveLink: 'https://awais-store.example.com',
-        githubLink: 'https://github.com/awais-ali/mern-store',
+        title: 'AdFlow Pro – SaaS Web Application',
+        description: 'Architected and developed a full-stack SaaS platform for advertisement workflow management. Implemented secure and scalable REST APIs using Node.js and Express.js. Designed real-time interactive dashboards using React. Structured MongoDB database for efficient data storage and retrieval. Deployed production-ready application on Vercel.',
+        techStack: JSON.stringify(['React', 'Node.js', 'Express.js', 'MongoDB', 'Vercel']),
+        liveLink: '',
+        githubLink: '',
         category: 'Full Stack',
         featured: true,
-        order: 2,
-        images: JSON.stringify(['https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600'])
+        order: 1,
+        images: JSON.stringify(['https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600'])
       },
       {
-        title: 'AI Collaborative Canvas',
-        description: 'Real-time collaborative drawing and design application powered by Socket.io, integrating OpenAI APIs to suggest graphic themes and autogenerate vectors.',
-        techStack: JSON.stringify(['Vite', 'Socket.io', 'Node.js', 'OpenAI API', 'Tailwind CSS']),
-        liveLink: 'https://ai-canvas.example.com',
-        githubLink: 'https://github.com/awais-ali/ai-canvas',
-        category: 'Web Sockets',
+        title: 'Full-Stack Portfolio / Resume Platform',
+        description: 'Developed a modern, responsive portfolio platform with reusable component architecture. Integrated smooth navigation, animations, and optimized UI/UX design. Ensured cross-device compatibility and performance optimization.',
+        techStack: JSON.stringify(['React', 'CSS', 'JavaScript']),
+        liveLink: '',
+        githubLink: '',
+        category: 'Frontend',
+        featured: true,
+        order: 2,
+        images: JSON.stringify(['https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600'])
+      },
+      {
+        title: 'GitHub UI Clone',
+        description: 'Engineered a pixel-perfect GitHub interface clone using React. Applied component-based architecture and responsive design principles. Focused on UI accuracy, performance, and maintainable code structure.',
+        techStack: JSON.stringify(['React', 'CSS']),
+        liveLink: '',
+        githubLink: '',
+        category: 'Frontend',
         featured: false,
         order: 3,
-        images: JSON.stringify(['https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=600'])
+        images: JSON.stringify(['https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600'])
       }
     ];
 
@@ -157,32 +158,23 @@ const seedData = async () => {
 
     // 6. Seed Experiences
     console.log('💼 Seeding experiences...');
-    const experiences = [
+        const experiences = [
       {
-        company: 'Vertex Tech Solutions',
-        role: 'Senior Full Stack Developer',
-        location: 'Remote / Islamabad',
+        company: 'Full Stack Developer (Student Level)',
+        role: 'Software Engineer',
+        location: 'Multan, Pakistan',
         description: JSON.stringify([
-          'Led a squad of 4 developers to re-engineer an enterprise ERP platform, improving page speeds by 40%.',
-          'Integrated complex R3F interactive asset visualizers into client marketing landing experiences.',
-          'Built microservices handling PDF generation and file processing, boosting throughput by 30%.'
+          'Engineered full-stack web applications using React, Node.js, and Express.js with modular and scalable architecture.',
+          'Designed and implemented RESTful APIs for efficient client-server communication.',
+          'Developed dynamic dashboards and interactive UI components using modern frontend practices.',
+          'Managed databases using MongoDB, ensuring optimized queries and structured data handling.',
+          'Deployed and maintained applications on Vercel and cloud platforms for production access.',
+          'Utilized Git-based workflows for version control, collaboration, and code management.',
+          'Focused on performance optimization, debugging, and improving application scalability.'
         ]),
-        startDate: 'Jan 2024',
+        startDate: '2023',
         endDate: 'Present',
         current: true
-      },
-      {
-        company: 'PixelForge Studios',
-        role: 'Full Stack Developer',
-        location: 'Lahore, Pakistan',
-        description: JSON.stringify([
-          'Developed responsive single-page applications using React, Context API, and Tailwind CSS.',
-          'Designed Mongoose database architectures and integrated third-party payment gateways (Stripe, Paypal).',
-          'Optimized REST APIs reducing server processing times from 400ms to under 150ms.'
-        ]),
-        startDate: 'Aug 2022',
-        endDate: 'Dec 2023',
-        current: false
       }
     ];
 
@@ -196,14 +188,22 @@ const seedData = async () => {
 
     // 7. Seed Educations
     console.log('🎓 Seeding educations...');
-    const educations = [
+        const educations = [
       {
-        institution: 'National University of Sciences and Technology (NUST)',
-        degree: 'Bachelor of Science',
+        institution: 'COMSATS University Islamabad, Pakistan',
+        degree: 'Bachelors of Computer Science (BSCS)',
         fieldOfStudy: 'Computer Science',
-        startDate: 'Sep 2018',
-        endDate: 'Jul 2022',
-        description: 'Graduated with Honors. Specialized in Software Engineering, Web Design, and Database Management Systems.'
+        startDate: '2023',
+        endDate: 'Present',
+        description: 'Pursuing Bachelors in Computer Science.'
+      },
+      {
+        institution: 'Post Graduate College, Pakistan',
+        degree: 'Intermediate of Computer Science (ICS)',
+        fieldOfStudy: 'Computer Science',
+        startDate: '2021',
+        endDate: '2023',
+        description: 'Completed ICS with a focus on core computer science subjects.'
       }
     ];
 

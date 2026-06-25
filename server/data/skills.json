@@ -1,110 +1,110 @@
 [
   {
-    "id": "e9e7806c-3d9c-498f-83ef-e34cced3caf7",
-    "name": "React.js",
+    "id": "31cc8f1c-8932-4165-b57e-e90a4e1fdbbb",
+    "name": "React",
     "category": "Frontend",
-    "proficiency": 95,
+    "proficiency": 90,
     "icon": "ReactIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "8318cf97-9b5e-4f2b-91b7-a1c5c72398df",
-    "name": "JavaScript / ES6",
+    "id": "5fe48145-7e13-40ec-8d5d-1f1fd221bff9",
+    "name": "JavaScript",
     "category": "Frontend",
     "proficiency": 90,
     "icon": "JsIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "07d13391-aafb-44dc-8032-9225c514541c",
-    "name": "Tailwind CSS",
-    "category": "Frontend",
-    "proficiency": 90,
-    "icon": "TailwindIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
-  },
-  {
-    "id": "06a584c8-43d2-4a30-ae36-077e5ce4a849",
-    "name": "Three.js / React Three Fiber",
-    "category": "Frontend",
-    "proficiency": 80,
-    "icon": "ThreeIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
-  },
-  {
-    "id": "1f54c6c5-ba83-48ad-924f-702b5970c91b",
+    "id": "ea111202-894c-4e20-b9ff-fa0f5ade4d24",
     "name": "HTML5 & CSS3",
     "category": "Frontend",
     "proficiency": 95,
     "icon": "HtmlIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "93d11f63-c37a-4aa6-a29b-9c31272bd08c",
+    "id": "7f23c0ee-5f99-4843-85ba-259f58770632",
+    "name": "Bootstrap 5",
+    "category": "Frontend",
+    "proficiency": 85,
+    "icon": "BootstrapIcon",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
+  },
+  {
+    "id": "cae0d149-c347-474d-8f7d-4a544f75dcd0",
     "name": "Node.js & Express",
     "category": "Backend",
-    "proficiency": 88,
+    "proficiency": 85,
     "icon": "NodeIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "22e4b98d-80b2-4a8d-8e2c-40838a01ad75",
-    "name": "MongoDB & Mongoose",
+    "id": "dd13d9db-8229-42bb-bd0b-e55e167817a4",
+    "name": "PHP (Laravel)",
     "category": "Backend",
+    "proficiency": 75,
+    "icon": "PhpIcon",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
+  },
+  {
+    "id": "4386e7bd-e420-401f-b403-687f1e039cc0",
+    "name": "Supabase",
+    "category": "Backend",
+    "proficiency": 80,
+    "icon": "SupabaseIcon",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
+  },
+  {
+    "id": "fe3c8a83-1f62-48c2-89a4-363232fd5b4d",
+    "name": "MongoDB",
+    "category": "Databases",
     "proficiency": 85,
     "icon": "MongoIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "5bcc6c1f-582b-4398-9866-e3d133103fef",
-    "name": "REST APIs & GraphQL",
-    "category": "Backend",
-    "proficiency": 90,
-    "icon": "ApiIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "id": "a0faf22d-847a-4cc1-bd0d-df83ed631521",
+    "name": "MySQL",
+    "category": "Databases",
+    "proficiency": 85,
+    "icon": "MysqlIcon",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "09e8e5a4-e023-472c-9567-44db746cda5f",
+    "id": "15ffcde9-6282-4649-9a82-538173c796a0",
+    "name": "PostgreSQL",
+    "category": "Databases",
+    "proficiency": 80,
+    "icon": "PostgresIcon",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
+  },
+  {
+    "id": "d8700fa9-37a4-4c51-8d0b-8331c86bb209",
     "name": "Git & GitHub",
     "category": "Tools",
     "proficiency": 90,
     "icon": "GitIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   },
   {
-    "id": "deb89d00-5c63-41fb-b49a-5abfab059f58",
-    "name": "Docker",
-    "category": "Tools",
-    "proficiency": 70,
-    "icon": "DockerIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
-  },
-  {
-    "id": "237ed9aa-896a-446a-b57e-0a4dea3ef2c3",
-    "name": "Figma",
-    "category": "Design",
-    "proficiency": 75,
-    "icon": "FigmaIcon",
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
-  },
-  {
-    "id": "7ba79d21-a94a-49e5-a25c-234cf9d5f1b4",
-    "name": "vercel",
-    "category": "Tools",
-    "proficiency": "89",
-    "icon": "",
-    "created_at": "2026-06-21T02:58:27.432Z",
-    "updated_at": "2026-06-21T02:58:27.432Z"
+    "id": "22a830a9-d3de-4d5a-a85a-839bae72e6c3",
+    "name": "Vercel, Netlify",
+    "category": "Platforms",
+    "proficiency": 85,
+    "icon": "VercelIcon",
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   }
 ]

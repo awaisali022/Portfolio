@@ -1,34 +1,22 @@
 [
   {
-    "id": "1109f0d5-0c4f-4514-aaed-80d3c135b31b",
-    "company": "Vertex Tech Solutions",
-    "role": "Senior Full Stack Developer",
-    "location": "Remote / Islamabad",
+    "id": "deedb4f9-76aa-4284-8d79-974333abec01",
+    "company": "Full Stack Developer (Student Level)",
+    "role": "Software Engineer",
+    "location": "Multan, Pakistan",
     "description": [
-      "Led a squad of 4 developers to re-engineer an enterprise ERP platform, improving page speeds by 40%.",
-      "Integrated complex R3F interactive asset visualizers into client marketing landing experiences.",
-      "Built microservices handling PDF generation and file processing, boosting throughput by 30%."
+      "Engineered full-stack web applications using React, Node.js, and Express.js with modular and scalable architecture.",
+      "Designed and implemented RESTful APIs for efficient client-server communication.",
+      "Developed dynamic dashboards and interactive UI components using modern frontend practices.",
+      "Managed databases using MongoDB, ensuring optimized queries and structured data handling.",
+      "Deployed and maintained applications on Vercel and cloud platforms for production access.",
+      "Utilized Git-based workflows for version control, collaboration, and code management.",
+      "Focused on performance optimization, debugging, and improving application scalability."
     ],
-    "startDate": "Jan 2024",
+    "startDate": "2023",
     "endDate": "Present",
     "current": true,
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
-  },
-  {
-    "id": "b2968c1b-1b52-48ee-a44d-0dbe6775c463",
-    "company": "PixelForge Studios",
-    "role": "Full Stack Developer",
-    "location": "Lahore, Pakistan",
-    "description": [
-      "Developed responsive single-page applications using React, Context API, and Tailwind CSS.",
-      "Designed Mongoose database architectures and integrated third-party payment gateways (Stripe, Paypal).",
-      "Optimized REST APIs reducing server processing times from 400ms to under 150ms."
-    ],
-    "startDate": "Aug 2022",
-    "endDate": "Dec 2023",
-    "current": false,
-    "created_at": "2026-06-21T02:52:50.761Z",
-    "updated_at": "2026-06-21T02:52:50.761Z"
+    "created_at": "2026-06-25T11:11:37.671Z",
+    "updated_at": "2026-06-25T11:11:37.671Z"
   }
 ]
