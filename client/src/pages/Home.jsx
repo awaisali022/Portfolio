@@ -6,7 +6,7 @@ import Skills from '../components/Sections/Skills';
 import Resume from '../components/Sections/Resume';
 import Projects from '../components/Sections/Projects';
 import Services from '../components/Sections/Services';
-import Testimonials from '../components/Sections/Testimonials';
+
 import Blog from '../components/Sections/Blog';
 import Contact from '../components/Sections/Contact';
 import Footer from '../components/Sections/Footer';
@@ -78,7 +78,7 @@ const Home = () => {
             />
             <Projects projects={data.projects} />
             <Services services={data.services} />
-            <Testimonials testimonials={data.testimonials} />
+
             <Blog posts={data.blogs} />
             <Contact settings={data.settings} />
             <Footer settings={data.settings} />

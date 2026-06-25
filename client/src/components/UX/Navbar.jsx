@@ -65,7 +65,7 @@ const Navbar = () => {
               to="/"
               className="font-display font-extrabold text-xl sm:text-2xl tracking-wider bg-gradient-to-r from-indigo-500 via-purple-500 to-indigo-400 bg-clip-text text-transparent"
             >
-              AWAIS.ALI
+              AWAIS ALI
             </Link>
           </div>
 
